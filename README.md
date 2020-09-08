@@ -4,7 +4,7 @@
 - Tank-themed videogame<br>
 - This is my first experience with game development, sprite animation, etc.<br>
 <strong> Disclamer: I made this game before learning about proper modular programming's efficiency, although I did learn use functions as pseudo-classes</strong><br>
-- 2018-2019 FSE for ICS3U
+- 2018-2019 FSE final project for ICS3U
 
 ### Repository Description
 - All tester code and un-cropped images are included
